@@ -1,5 +1,6 @@
 # advanced-digital-image-processing
 This repository stores my Digital Image Processing (DIP) assignments implementation
+
 The submitted file contains three kind of files:
 1. Ipython NoteBook files
 2. Python files
